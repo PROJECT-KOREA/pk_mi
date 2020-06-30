@@ -1,0 +1,30 @@
+communist_infiltration = {
+	allowed = {
+		OR = {
+			original_tag = JAP
+			original_tag = MEN
+			original_tag = MAN
+		}
+	}
+
+	visible = {
+		is_subject = no
+		if = {
+			limit = { original_tag = JAP }
+			OR = {
+				MAN = { is_subject_of = ROOT }
+				MEN = { is_subject_of = ROOT }
+			}
+		}
+		NOT = { 
+			OR = {
+				has_government = communism
+				has_government = radical_socialism
+				has_government = social_democracy
+		 		}
+		}
+		any_other_country = {
+			has_completed_focus = PRC_anti_japanese_expedition
+		}
+	}
+}

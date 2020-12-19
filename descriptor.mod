@@ -6,4 +6,6 @@ tags={
 	"Graphics"
 }
 name="PROJECT KOREA: MORE IDEOLOGIES"
-supported_version="1.9.3"
+picture="thumbnail.png"
+supported_version="1.10.*"
+remote_file_id="2298788907"

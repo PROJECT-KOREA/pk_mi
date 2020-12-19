@@ -2,8 +2,28 @@ spriteTypes = {
 
 	### KOR ###
 	spriteType = {
-		name = "GFX_ideology_democratic_group"
-		textureFile = "gfx/interface/ideologies/democratic_group.dds"
+		name = "GFX_ideology_Seo_Jae_Pil_conservatism"
+		textureFile = "gfx/interface/ideologies/conservatism.tga"
+	}
+	spriteType = {
+		name = "GFX_ideology_lee_fascism"
+		textureFile = "gfx/interface/ideologies/Junta.tga"
+	}
+	spriteType = {
+		name = "GFX_ideology_American_Soclib"
+		textureFile = "gfx/interface/ideologies/American_Soclib.tga"
+	}
+	spriteType = {
+		name = "GFX_ideology_warloadism"
+		textureFile = "gfx/interface/ideologies/war_lordism.tga"
+	}
+	spriteType = {
+		name = "GFX_ideology_Peoples_Party_ideology"
+		textureFile = "gfx/interface/ideologies/Dang_Guo.tga"
+	}
+	spriteType = {
+		name = "GFX_ideology_maoism"
+		textureFile = "gfx/interface/ideologies/Maoism.tga"
 	}
 
 	spriteType = {
@@ -28,7 +48,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_ideology_liberal_conservatism_group"
-		textureFile = "gfx/interface/ideologies/liberal_conservatism_group.dds"
+		textureFile = "gfx/interface/ideologies/liberal_conservatism_group.tga"
 	}
 	spriteType = {
 		name = "GFX_ideology_autocracy_group"

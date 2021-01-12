@@ -19,11 +19,47 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_ideology_Peoples_Party_ideology"
-		textureFile = "gfx/interface/ideologies/Dang_Guo.tga"
+		textureFile = "gfx/interface/ideologies/kuomintang.dds"
 	}
 	spriteType = {
 		name = "GFX_ideology_maoism"
 		textureFile = "gfx/interface/ideologies/Maoism.tga"
+	}
+	spriteType = {
+		name = "GFX_ideology_nazism"
+		textureFile = "gfx/interface/ideologies/nazi.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_FRA_social_democracy_group"
+		textureFile = "gfx/interface/ideologies/radical.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_DEN_social_democracy_group"
+		textureFile = "gfx/interface/ideologies/sd.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_SWI_democratic_group"
+		texturefile = "gfx/interface/ideologies/fc.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_NOR_social_democracy_group"
+		texturefile = "gfx/interface/ideologies/lp.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_SWE_social_democracy_group"
+		texturefile = "gfx/interface/ideologies/sap.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_CZE_democratic_group"
+		texturefile = "gfx/interface/ideologies/csns.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_CAN_social_liberalism_group"
+		texturefile = "gfx/interface/ideologies/clp.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_ITA_fascism_group"
+		texturefile = "gfx/interface/ideologies/pnf.dds"
 	}
 
 	spriteType = {
